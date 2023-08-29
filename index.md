@@ -1,15 +1,28 @@
 ---
 layout: default
-title: Student Blog
+title: Ashwins Crazy Blog
 ---
+## Ashwins Blog
+
+<img src="image.png"
+width="500"
+height="550"
+/>
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+<marquee> <font size="+10"> I love AP computer science principles </font> </marquee>
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+
+- <span title="I love to code and be a Computer Scientist"> <font size="+1">hover your mouse over me!</font></span>
+
+
+
+## Week 0-1
+- This week I had to set up my github acount and work with my other tools like Jupyter and vscode. I had alot of issues, and made alot of mistakes such as forking the repository wrong from the start, which caused me to lose alot of my progress. Before I had to restart, I was messing around with my blog by changing the theme, adding pictures and other cool things. I then had to make a new repository and copy what I could from the old one to the new files. After I did this, my "make" command suddenly stoped working due to a bundle install issue. After all of that, Jared baza my partner relized that there was a space in my config.yml file which was causing the make to time out. Now everything is in order and everything works!
+
+## Week 2-3
+
+
+
+

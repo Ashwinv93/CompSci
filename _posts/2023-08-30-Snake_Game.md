@@ -1,10 +1,10 @@
 ---
-toc: true
-comments: true
+toc: false
+comments: false
 layout: post
 title: Snake Game
-description: whatever 
-type: tangibles
+description: Fun Project 
+type: hacks
 courses: { compsci: {week: 1} }
 ---
 

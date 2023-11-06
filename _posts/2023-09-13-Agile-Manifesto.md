@@ -3,8 +3,8 @@ toc: false
 comments: false
 layout: post
 title: Agile Manifesto
-type: hacks
-courses: { compsci: {week: 4} }
+type: plans
+courses: { compsci: {week: 8} }
 ---
 
 <br>

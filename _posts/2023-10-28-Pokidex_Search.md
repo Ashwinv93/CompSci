@@ -5,7 +5,7 @@ layout: post
 title: Pokemon Search
 description: Prototype for Project
 type: hacks
-courses: {'compsci': {'week': 8}}
+courses: {'compsci': {'week': 9}}
 ---
 
 <html>

@@ -5,6 +5,7 @@ layout: post
 title: Agile Manifesto
 type: plans
 courses: { compsci: {week: 8} }
+hide: true
 ---
 
 <br>

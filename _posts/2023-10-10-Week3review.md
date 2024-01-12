@@ -5,6 +5,7 @@ layout: post
 title: Project Review 3
 description: Review of third week on project
 type: tangibles
+hide: true
 courses: {'compsci': {'week': 10}}
 ---
 

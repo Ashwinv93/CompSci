@@ -5,6 +5,7 @@ layout: post
 title: Music Player
 type: tangibles
 courses: { compsci: {week: 3} }
+hide: true
 ---
 
 <html lang="en">

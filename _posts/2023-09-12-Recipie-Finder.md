@@ -5,6 +5,7 @@ layout: post
 title: Recipie Finder
 type: tangibles
 courses: { compsci: {week: 3} }
+hide: true
 ---
 
 <html>

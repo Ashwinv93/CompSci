@@ -6,6 +6,7 @@ title: Favorite Soccer Players
 description: Fun Project 
 type: hacks
 courses: { compsci: {week: 3} }
+hide: true
 ---
 
 | Name | Rating | Club | Country | Position |

@@ -15,7 +15,13 @@ Unit3:
   start: 8
   end: 11
 Unit4:
-  title: CPT Project
-  description:
+  title: CPT Warm-up
+  description: Start of Second Tri
   start: 12
   end: 14
+Unit5:
+  title: CPT Project
+  description: End of Second Tri
+  start: 15
+  end: 18
+

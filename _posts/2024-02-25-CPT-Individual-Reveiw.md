@@ -27,6 +27,8 @@ Clash Royale is a very popular mobile game based around cards. There are about 1
 | Calls to your student-developed prodcedure:  |  This fuction in my frontend calls my backend prodcedure to populate a users collection based on what has been added to the database. It fetches the data and displays it or returns an error message. <img src="https://Ashwinv93.github.io/CompSci/images/call.png" alt="Description of Image"/>  |
 | Instructions for output (tactile, audible, visual, or ) based on input and program functionality  |  This function populates the container I created, with the cards outputed from our database. This is a visual output since it just displays the images of each card. <img src="https://Ashwinv93.github.io/CompSci/images/function.png" alt="Description of Image"/> This is the displayed output <img src="https://Ashwinv93.github.io/CompSci/images/output.png" alt="Description of Image"/> |
 
+<br>
+
 # Video
 
 | Collegboard Requirements | My Video |
@@ -37,4 +39,4 @@ Clash Royale is a very popular mobile game based around cards. There are about 1
 | My video does not have: | Any voice narration  |
 | My video is: | Less than 1 minute in length and less than 30MB in file size.  |
 
-[Link to my Video](https://drive.google.com/file/d/1ZfDdQ5x0vMFbANHlCg8nE2eyQTTgQG3Z/view?usp=sharing)
+[Link to my Video](https://drive.google.com/file/d/1T-40wnZCRUhn4pRfP3aoibgGuVOzfnhp/view?usp=sharing)

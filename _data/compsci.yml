@@ -13,15 +13,20 @@ Unit3:
   title: Work On Project
   description: Learn how to work on frontend and backend
   start: 8
-  end: 11
+  end: 12
 Unit4:
   title: CPT Warm-up
   description: Start of Second Tri
-  start: 12
-  end: 14
+  start: 13
+  end: 17
 Unit5:
   title: CPT Project
   description: End of Second Tri
-  start: 15
-  end: 18
+  start: 18
+  end: 24
+Unit6:
+  title: CPT Project (Cont.)
+  description: Start of 3rd Tri
+  start: 25
+  end: 29
 

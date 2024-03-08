@@ -5,7 +5,7 @@ layout: post
 title: Ashwins CPT Individual Review
 description: 
 type: tangibles
-courses: {'compsci': {'week': 14}}
+courses: {'compsci': {'week': 24}}
 ---
 
 ## My Feature

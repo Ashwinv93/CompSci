@@ -5,7 +5,7 @@ layout: post
 title: Individual Review
 description: 
 type: tangibles
-courses: {'compsci': {'week': 14}}
+courses: {'compsci': {'week': 15}}
 ---
 
 # Individual Review

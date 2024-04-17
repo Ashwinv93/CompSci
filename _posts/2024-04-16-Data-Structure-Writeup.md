@@ -24,8 +24,8 @@ Clash Royale is a very popular mobile game based around cards. There are about 1
 
 | Requirements | My Feature |
 |------------------|------------------|
-| In VSCode using Debugger, show a list as extracted from database as Python objects. |  |
-| In VSCode use Debugger and list, show two distinct example examples of dictionaries, show Keys/Values using debugger. |  |
+| In VSCode using Debugger, show a list as extracted from database as Python objects. | I debug my collection feature with a breakpoint in the endpoint code. It calls the class and hits the breakpoint. Then I step throught the function as the data gets sent to the frontend. <img src="https://Ashwinv93.github.io/CompSci/images/debug.png" alt="Description of Image"/> |
+| In VSCode use Debugger and list, show two distinct example examples of dictionaries, show Keys/Values using debugger. | This show two dictionarys of cards, with atributes such as rarity and elixer cost. <img src="https://Ashwinv93.github.io/CompSci/images/dict.png" alt="Description of Image"/> |
 
 ## APIs and JSON
 

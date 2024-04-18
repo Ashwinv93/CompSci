@@ -42,7 +42,7 @@ Clash Royale is a very popular mobile game based around cards. There are about 1
 
 | Requirements | My Feature |
 |------------------|------------------|
-| In Chrome inspect, show response of JSON objects from fetch of GET, POST, and UPDATE methods. | <img src="https://Ashwinv93.github.io/CompSci/images/response2.png" alt="Description of Image"/> |
+| In Chrome inspect, show response of JSON objects from fetch of GET, POST, and UPDATE methods. | <img src="https://Ashwinv93.github.io/CompSci/images/responce2.png" alt="Description of Image"/> |
 | In the Chrome browser, show a demo (GET) of obtaining an Array of JSON objects that are formatted into the browsers screen. | I will demo opening a chest. The card data is formated into containers and displayed in a card format with the image displayed. |
 | In JavaScript code, describe fetch and method that obtained the Array of JSON objects. | This fetches the variable API endpoint, that will change depending on what chest you click on. <img src="https://Ashwinv93.github.io/CompSci/images/fetch.png" alt="Description of Image"/> If the Gold chest is clicked on, it goes to the common chest API, and if the Legendary chest is clicked it fetches its respective API. Here is that code <img src="https://Ashwinv93.github.io/CompSci/images/2chest.png" alt="Description of Image"/> |
 | In JavaScript code, show code that performs iteration and formatting of data into HTML. | This iterates through the card data from the backend, and creates the container in HTML so it can be displayed with the card image icons. <img src="https://Ashwinv93.github.io/CompSci/images/format.png" alt="Description of Image"/> |
